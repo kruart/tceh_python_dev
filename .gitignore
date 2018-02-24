@@ -1,5 +1,6 @@
 .idea
 *.txt
+*.json
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
@@ -108,3 +109,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+Буде вилучено course09_json_regex_web_flask_intro/flask_examples/
+Буде вилучено course09_json_regex_web_flask_intro/werkzeug_examples/
