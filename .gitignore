@@ -1,6 +1,7 @@
 .idea
 *.txt
 *.json
+!requirements.txt
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template

@@ -1,6 +1,6 @@
 import json
 
-from course09_json_regex_web_flask_intro.files import way_better
+from course09_json_regex_web.files import way_better
 
 if __name__ == '__main__':
     data = way_better('data.json')
