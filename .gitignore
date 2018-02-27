@@ -2,6 +2,7 @@
 *.txt
 *.json
 !requirements.txt
+!TODO.txt
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
@@ -112,3 +113,4 @@ venv.bak/
 
 Буде вилучено course09_json_regex_web_flask_intro/flask_examples/
 Буде вилучено course09_json_regex_web_flask_intro/werkzeug_examples/
+Буде вилучено course11_context_manager_flask_config_request/homework/__init__.py
