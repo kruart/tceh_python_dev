@@ -2,6 +2,9 @@
 *.txt
 *.json
 !requirements.txt
+!_basic_template.txt
+!_header.txt
+!report.txt
 !TODO.txt
 
 # Created by .ignore support plugin (hsz.mobi)
