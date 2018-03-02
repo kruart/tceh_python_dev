@@ -22,3 +22,5 @@ WTForms==2.1
 WTForms-Alchemy==0.16.2
 WTForms-Components==0.10.3
 simple-settings
+Django==1.10
+wheel
